@@ -1,2 +1,2 @@
-# Hangman-Game
-Using Python
+# Minor Python Projects
+Hagman Game, 8-queens, Tic-Tac-Toe
