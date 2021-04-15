@@ -1,2 +1,2 @@
 # Minor Python Projects
-Hagman Game, 8-queens, Tic-Tac-Toe
+Hangman Game, 8-queens, Tic-Tac-Toe, Travelling Salesman Problem.
